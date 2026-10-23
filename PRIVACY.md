@@ -1,2 +1,3 @@
 Privacy Policy (隱私權政策)
 Unlock is built on a strict zero-knowledge architecture. We do not collect, store, or have access to your master password, unlock pattern, derived keys, or any encrypted files (photos, videos, documents) stored within the app. All encryption and decryption processes occur locally on your device. If you choose to enable iCloud Sync, your encrypted data is synced via your personal Apple CloudKit Private Database. We cannot view, access, or decrypt this synced data. We do not use any third-party analytics or tracking frameworks. Your privacy is entirely in your hands.
+If you have any questions, please contact us at nomummystudio@gmail.com.
