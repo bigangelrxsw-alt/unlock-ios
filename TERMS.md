@@ -1,2 +1,3 @@
 Terms of Use (使用條款)
 By downloading or using the Unlock app, you agree to Apple's Standard End User License Agreement (EULA). Unlock is provided "as is" without warranties of any kind. Because the app uses zero-knowledge encryption, you are solely responsible for remembering your master password or unlock pattern. If you lose your password, the developer cannot recover your data under any circumstances. For the complete standard terms, please refer to the Apple Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+If you have any questions, please contact us at nomummystudio@gmail.com.
